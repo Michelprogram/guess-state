@@ -79,6 +79,8 @@ To get a local copy up and running follow these simple example steps.
 open / run index.html
 ```
 
+Can reach website here : https://michelprogram.github.io/guess-state/
+
 <p align="right"><a href="#top">⬆️</a></p>
 
 
